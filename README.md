@@ -11,3 +11,9 @@ This repo contains our research into planets. Our research questions are:
   - Q2a
   - Q2b
 * Q3
+
+---
+
+Contact us for more info.
+
+---
