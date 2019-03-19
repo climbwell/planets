@@ -17,3 +17,5 @@ This repo contains our research into planets. Our research questions are:
 Contact us for more info.
 
 ---
+
+This is a sample of markdown
